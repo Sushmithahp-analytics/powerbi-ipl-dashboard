@@ -13,7 +13,7 @@ This project is a Power BI dashboard analyzing IPL team and player performance t
 - Compared player performance metrics  
 
 ## 📷 Dashboard Preview
-![IPL Dashboard](./ipl-dashboard.png)
+![IPL Dashboard](ipl_performance_dashboard.png)
 
 ## 📌 Conclusion
 This dashboard provides a clear understanding of team and player performance, helping in analyzing match outcomes and trends effectively.
