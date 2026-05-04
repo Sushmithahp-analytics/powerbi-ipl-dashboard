@@ -1,12 +1,19 @@
 # IPL Performance Dashboard
 
-## Tools Used
-Power BI, Excel
+## 📊 Project Overview
+This project is a Power BI dashboard analyzing IPL team and player performance to identify trends and insights across matches.
 
-## Description
-Dashboard to analyze team and player performance in IPL.
+## 🔧 Tools Used
+- Power BI  
+- Excel  
 
-## Key Insights
-- Top performing teams
-- Match trends
-- Player comparisons
+## 📈 Key Insights
+- Identified top-performing teams based on wins and consistency  
+- Analyzed match trends across seasons  
+- Compared player performance metrics  
+
+## 📷 Dashboard Preview
+![IPL Dashboard](./ipl-dashboard.png)
+
+## 📌 Conclusion
+This dashboard provides a clear understanding of team and player performance, helping in analyzing match outcomes and trends effectively.
